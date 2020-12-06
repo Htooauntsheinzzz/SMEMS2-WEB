@@ -1,4 +1,4 @@
-package com.reno.smems.web;
+package com.reno.smems.web.beans;
 
 import java.io.Serializable;
 
